@@ -1,0 +1,2 @@
+运行dlnainstall.sh执行安装程序
+安装完毕后运行dlna.sh即可
